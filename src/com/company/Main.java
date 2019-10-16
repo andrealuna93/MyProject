@@ -6,6 +6,7 @@ public class Main extends Test {
 
         setUp();
         signIn();
+        registro();
 
 
 	// write your code here

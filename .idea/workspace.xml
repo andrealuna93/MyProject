@@ -4,8 +4,10 @@
     <list default="true" id="5b49fb17-f5d1-4bb2-b44a-674725132c47" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../MyProject/.idea/libraries/byte_buddy_1_8_15.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MyProject/MyProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../introWebDriver" beforeDir="false" afterPath="$PROJECT_DIR$/../introWebDriver" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SFdDp9mRAhy8hRS4YTT5gJkBln" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
